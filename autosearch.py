@@ -8,7 +8,6 @@ import time
 from pytube import YouTube
 import shutil
 import myscraping
-import time
 
 # PESQUISA O NOME DA MUSICA NO YOUTUBE E RETORNA O PRIMEIRO RESULTADO DA PESQUISA
 def pesquisa(musica):
